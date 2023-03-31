@@ -33,7 +33,7 @@
 	z-index: 2;
 	position: fixed;
 	padding: 10px;
-	padding left: 20px;
+	padding-left: 20px;
 	box-shadow: inset -200px 16px 300px -92px rgba(0,191,178,1);
 	cursor: pointer;
 	text-shadow: 1px 1px 2px grey;
